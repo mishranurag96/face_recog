@@ -1,13 +1,13 @@
 # Face Recognition using Haar-Cascade Classifier, OpenCV, and Python
 Simple Face Recognition algorithm using Python and OpenCV
 
-## Requirement
+## Pre-req
 - Python 2.7(ANACONDA,will also work on 3.x)
 - OpenCV 3.1.0
 - Numpy
 
 
-## Outline
+## Brief
 This project consist of 3 parts, which are:
 
 1. Creating datasets (face_datasets.py)
@@ -16,7 +16,7 @@ This project consist of 3 parts, which are:
 
 3. Face Recognition (face_recognition.py)
 
-## How to run ?
+## Running 
 0. Make sure have executable permission. (chmod 777 .)
 
 1. Please make sure that you have folders called 'datasets' and 'trainer' in the same directory. (Optional, I have put the code so it will create if it's not exist.)
@@ -33,3 +33,4 @@ This project consist of 3 parts, which are:
 
 
 *thanks to github resources
+*thanks to https://github.com/nazmi69/
